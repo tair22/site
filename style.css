@@ -7,22 +7,27 @@ body {
 h1 {
     color: #D6FF6B; /* Цвет заголовка */
     font-size: 24px; /* Размер шрифта в пунктах */
-    font-family: Georgia, serif; /* Семейство шрифтов */
+    font-family: "Inter", serif; /* Семейство шрифтов */
+    text-decoration: underline;
+    text-decoration-color: #D6FF6B;
 }
 p {
     color: #FD98FB; /* Цвет заголовка */
     font-size: 11px; /* Размер шрифта в пунктах */
-    font-family: Georgia, serif; /* Семейство шрифтов */
+    font-family: "Inter", serif; /* Семейство шрифтов */
+    border-style: dotted;
 }
 h2 {
     color: #D6FF6B; /* Цвет заголовка */
-    font-family: Georgia, serif; /* Семейство шрифтов */
+    font-family: "Inter", serif; /* Семейство шрифтов */
+    text-decoration: underline;
+    text-decoration-color: #D6FF6B;
 }
 ol {
     color: #FFFFFF; /* Цвет заголовка */
-    font-family: Georgia, serif; /* Семейство шрифтов */
+    font-family: "Inter", serif; /* Семейство шрифтов */
 }
 ul {
     color: #FFFFFF; /* Цвет заголовка */
-    font-family: Georgia, serif; /* Семейство шрифтов */
+    font-family: "Inter", serif; /* Семейство шрифтов */
 }
